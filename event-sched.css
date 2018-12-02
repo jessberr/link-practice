@@ -1,0 +1,31 @@
+body {
+  margin:20px;
+  padding:20px;
+}
+.title{
+  text-align: center;
+  font-size: 45px;
+}
+
+.sub-title {
+  text-align: center;
+
+}
+h1 {
+  text-align: center;
+}
+h3 {
+  font-size: 25px;
+}
+
+button {
+  font-size: 45px;
+  padding: 14px 40px;
+  border-radius:12px;
+  text-align: center;
+}
+
+button:hover {
+    background-color: black; /* Green */
+    color: white;
+}
